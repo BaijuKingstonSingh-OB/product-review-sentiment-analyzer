@@ -76,7 +76,7 @@ _Entry-level AI enthusiast building hands-on ML projects to gain real-world expe
 
 ## 📬 Contact
 Want to collaborate or have feedback?  
-📧 [YourEmail@example.com] (Add if needed)  
+📧 Email : saiju442016@gmail.com
 📘 GitHub: [https://github.com/BaijuKingstonSingh-OB](https://github.com/BaijuKingstonSingh-OB)
 
 ---
